@@ -1,4 +1,48 @@
-h1 {
-  color: #747BBC
+
+body {
+  background-color: rgb(1,1,30);
 }
 
+h1 {
+  color: #53CCF0;
+  text-align: center; 
+}
+
+
+h2 {
+  color: #53CCF0;
+  text-align: center;
+}
+
+
+.para {
+  background-color: rgba(72,77,144,0.45);
+  border-width: 3px;
+  border-color: #283284;
+  border-style: solid;
+  padding: 2em;
+  max-width: 500px;
+  margin: auto;
+  margin-bottom: 5rem;
+}
+
+.dog_list {
+  background-color: rgba(72,77,144,0.45);
+  border-width: 3px;
+  border-color: #283284;
+  border-style: solid;
+  padding: 1em;
+  max-width: 150px;
+  margin: auto;
+  color: #53CCF0;
+  
+}
+
+p {
+color: #53CCF0;
+font-size: 20px;
+}
+
+ul {
+  list-style-type: square;
+}
